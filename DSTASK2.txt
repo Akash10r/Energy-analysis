@@ -1,0 +1,5 @@
+Task1 : Make a clustering analysis of various variables. Provide with insightful results with visualizations. 
+Task2 : Also use multiple linear regression to provide a regression line between (AC temp, Room temp , Time) and Current. 
+Task3 : Make meaningful heatmaps (E.g Power usage for a day)
+Task4 : Given the current time, room temperature and ac temperature, Predict the current drawn.
+P.S: Try plotly for sharing visualizations
